@@ -1,3 +1,3 @@
-![say-hello](https://github.com/github/docs/actions/workflows/say-hello.yml/badge.svg)
+[![show-directory](https://github.com/poirtyc/hexlet-my-first-workflow-/actions/workflows/say-hello.yml/badge.svg)](https://github.com/poirtyc/hexlet-my-first-workflow-/actions/workflows/say-hello.yml)
 # hexlet-my-first-workflow-
 
